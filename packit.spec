@@ -11,8 +11,8 @@ Patch0:		%{name}-bpf.patch
 URL:		http://packit.sourceforge.net/
 BuildRequires:	automake
 BuildRequires:	autoconf
+BuildRequires:	libnet-devel >= 1:1.1.2
 BuildRequires:	libpcap-devel
-BuildRequires:	libnet-devel
 Requires:	libnet >= 1:1.1.2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
