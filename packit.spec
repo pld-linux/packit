@@ -30,9 +30,10 @@ Packit jest narzêdziem s³u¿±cym do sprawdzania sieci. Jego warto¶æ
 wywodzi siê z mo¿liwo¶ci dostosowywania, wysy³ania, monitorowania i
 manipulacji ruchem sieciowym. Packit umo¿liwia zdefiniowanie prawie
 wszystkich opcji nag³ówków TCP, UDP, ICMP, IP, ARP, RARP, i Ethernet,
-przez co mo¿e byæ u¿ytecznym w testowaniu firewalli, systemach
-zapobiegania w³amaniom, symulowaniu ruchu sieciowego, i audytowaniu
-TCP/IP. Packit jest tak¿e znakomitym narzêdziem do nauki TCP/IP.
+przez co mo¿e byæ u¿ytecznym w testowaniu zapór sieciowych, systemach
+zapobiegania w³amaniom, symulowaniu ruchu sieciowego, i ogólnym
+sprawdzaniu TCP/IP. Packit jest tak¿e znakomitym narzêdziem do nauki
+TCP/IP.
 
 %prep
 %setup -q
