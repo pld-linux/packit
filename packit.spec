@@ -13,7 +13,7 @@ BuildRequires:	automake
 BuildRequires:	autoconf
 BuildRequires:	libpcap-devel
 BuildRequires:	libnet-devel
-Requires:	libnet >= 1.1.2
+Requires:	libnet >= 1:1.1.2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
