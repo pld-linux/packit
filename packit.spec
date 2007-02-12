@@ -1,5 +1,5 @@
 Summary:	Network auditing tool
-Summary(pl):	Narzêdzie do sprawdzania sieci
+Summary(pl.UTF-8):   NarzÄ™dzie do sprawdzania sieci
 Name:		packit
 Version:	1.0
 Release:	1
@@ -25,14 +25,14 @@ in testing firewalls, intrusion detection/prevention systems, port
 scanning, simulating network traffic, and general TCP/IP auditing.
 Packit is also an excellent tool for learning TCP/IP.
 
-%description -l pl
-Packit jest narzêdziem s³u¿±cym do sprawdzania sieci. Jego warto¶æ
-wywodzi siê z mo¿liwo¶ci dostosowywania, wysy³ania, monitorowania i
-manipulacji ruchem sieciowym. Packit umo¿liwia zdefiniowanie prawie
-wszystkich opcji nag³ówków TCP, UDP, ICMP, IP, ARP, RARP, i Ethernet,
-przez co mo¿e byæ u¿ytecznym w testowaniu zapór sieciowych, systemach
-zapobiegania w³amaniom, symulowaniu ruchu sieciowego, i ogólnym
-sprawdzaniu TCP/IP. Packit jest tak¿e znakomitym narzêdziem do nauki
+%description -l pl.UTF-8
+Packit jest narzÄ™dziem sÅ‚uÅ¼Ä…cym do sprawdzania sieci. Jego wartoÅ›Ä‡
+wywodzi siÄ™ z moÅ¼liwoÅ›ci dostosowywania, wysyÅ‚ania, monitorowania i
+manipulacji ruchem sieciowym. Packit umoÅ¼liwia zdefiniowanie prawie
+wszystkich opcji nagÅ‚Ã³wkÃ³w TCP, UDP, ICMP, IP, ARP, RARP, i Ethernet,
+przez co moÅ¼e byÄ‡ uÅ¼ytecznym w testowaniu zapÃ³r sieciowych, systemach
+zapobiegania wÅ‚amaniom, symulowaniu ruchu sieciowego, i ogÃ³lnym
+sprawdzaniu TCP/IP. Packit jest takÅ¼e znakomitym narzÄ™dziem do nauki
 TCP/IP.
 
 %prep
