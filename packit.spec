@@ -1,5 +1,5 @@
 Summary:	Network auditing tool
-Summary(pl.UTF-8):   Narzędzie do sprawdzania sieci
+Summary(pl.UTF-8):	Narzędzie do sprawdzania sieci
 Name:		packit
 Version:	1.0
 Release:	1
